@@ -107,3 +107,10 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# custom
+models
+output
+data
+dependencies/mesh_intersection-0.1.0-cp38-cp38-linux_x86_64.whl
+
+

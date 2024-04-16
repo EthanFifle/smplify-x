@@ -1,0 +1,2 @@
+model_checkpoint_path: "/ps/project/human_gender_classifier/homogenus/results/20_T08_V04/exported_models/TR02_E02_It_002010.ckpt"
+all_model_checkpoint_paths: "/ps/project/human_gender_classifier/homogenus/results/20_T08_V04/exported_models/TR02_E02_It_002010.ckpt"
